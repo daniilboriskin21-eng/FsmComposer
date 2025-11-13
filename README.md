@@ -39,10 +39,18 @@ WPF-приложение для **создания**, **композиции** �
 
 
 ## Диаграммы
+**Абстрактная фабрика**
 
-- [Abstract Factory](diagrams/abstract_factory.png)
-- [Composite](diagrams/composite.png)
-- [Command](diagrams/command.png)
+<img src="diagrams/abstract_factory.png" title="" alt="">
+
+**Компоновщик**
+
+<img src="diagrams/composite.png" title="" alt="">
+
+**Команда**
+
+<img src="diagrams/command.png" title="" alt="">
+
 
 ---
 
