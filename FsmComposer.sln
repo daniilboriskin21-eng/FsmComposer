@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FsmComposer.UI", "FsmComposer.UI\FsmComposer.UI.csproj", "{3F974DAC-8149-4C90-AA5D-02FBB11FDFB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FsmComposer.Core", "FsmComposer.Core\FsmComposer.Core.csproj", "{94EC915D-B38D-4E6E-8909-C443EFF60039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F974DAC-8149-4C90-AA5D-02FBB11FDFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F974DAC-8149-4C90-AA5D-02FBB11FDFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F974DAC-8149-4C90-AA5D-02FBB11FDFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F974DAC-8149-4C90-AA5D-02FBB11FDFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94EC915D-B38D-4E6E-8909-C443EFF60039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EC915D-B38D-4E6E-8909-C443EFF60039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EC915D-B38D-4E6E-8909-C443EFF60039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EC915D-B38D-4E6E-8909-C443EFF60039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A35E23A-940A-49EF-A157-22CCC53A54FF}
+	EndGlobalSection
+EndGlobal
